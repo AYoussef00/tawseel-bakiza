@@ -108,7 +108,7 @@
       <a href="https://hungerstation.com/sa-en/restaurant/riyadh/al-muzahimiyah/147152" class="link-card" style="background-image: url('{{ asset('images/hunger.webp') }}'); background-size: cover; background-position: center; height: 140px;"></a>
       <a href="https://jahez.link/JDOkNXgjjTb" class="link-card" style="background-image: url('{{ asset('images/jahiz.png') }}'); background-size: cover; background-position: center; height: 140px;"></a>
       <a href="https://thechefzco.app.link/RgGwWvIA4Sb" class="link-card" style="background-image: url('{{ asset('images/chifz.png') }}'); background-size: cover; background-position: center; height: 140px;"></a>
-      <a href="https://www.noon.com/uae-en/express-food/" class="link-card" style="background-image: url('{{ asset('images/noon-food.png') }}'); background-size: cover; background-position: center; height: 140px;"></a>
+      <a href="https://food.noon.com/en-sa/outlet/TNTBKZQVT0" class="link-card" style="background-image: url('{{ asset('images/noon-food.png') }}'); background-size: cover; background-position: center; height: 140px;"></a>
     </div>
   </div>
 
