@@ -209,6 +209,11 @@
           <img src="{{ asset('images/noon-food.png') }}" alt="Noon Food" />
         </div>
       </a>
+      <a href="https://thechefzco.app.link/22nzXGfeNTb" class="link-card">
+        <div class="card-img">
+          <img src="{{ asset('images/the-chefz.png') }}" alt="ذا شيفز" />
+        </div>
+      </a>
     </div>
   </div>
 
